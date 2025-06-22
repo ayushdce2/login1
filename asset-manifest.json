@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ecommerce_mern/static/css/main.6e7c1757.css",
-    "main.js": "/ecommerce_mern/static/js/main.00620dda.js",
+    "main.js": "/ecommerce_mern/static/js/main.94fdc909.js",
     "static/js/488.e75445ad.chunk.js": "/ecommerce_mern/static/js/488.e75445ad.chunk.js",
     "static/media/Poppins-Medium.ttf": "/ecommerce_mern/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
     "index.html": "/ecommerce_mern/index.html",
@@ -15,11 +15,11 @@
     "static/media/user.svg": "/ecommerce_mern/static/media/user.0de264b49c175e1e7363802082df599a.svg",
     "static/media/email.svg": "/ecommerce_mern/static/media/email.fc27aa3081826958d54528593a2b0a22.svg",
     "main.6e7c1757.css.map": "/ecommerce_mern/static/css/main.6e7c1757.css.map",
-    "main.00620dda.js.map": "/ecommerce_mern/static/js/main.00620dda.js.map",
+    "main.94fdc909.js.map": "/ecommerce_mern/static/js/main.94fdc909.js.map",
     "488.e75445ad.chunk.js.map": "/ecommerce_mern/static/js/488.e75445ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e7c1757.css",
-    "static/js/main.00620dda.js"
+    "static/js/main.94fdc909.js"
   ]
 }
