@@ -46,7 +46,7 @@ const Register = ()=>{
                                         <p>Create New Account</p>
                                     </div>
                                     <div class="my_login_right_login_text text_center">
-                                        <p>Already have an account ? <span><Link to="/">Sign In</Link></span></p>
+                                        <p>Already have an account ? <span><Link to="/login1">Sign In</Link></span></p>
                                     </div>
                                     <div>
                                         <label>Name</label>

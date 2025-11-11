@@ -66,7 +66,7 @@ const ForgotPass = ()=>{
 
                             </div>
                             <div class="my_login_right_bottom_text">
-                                <p class="my_login_right_bottom_text_unit">Want to Login? <span><Link to="/">Sign In</Link></span></p>
+                                <p class="my_login_right_bottom_text_unit">Want to Login? <span><Link to="/login1">Sign In</Link></span></p>
                             </div>
 
                         </div>
